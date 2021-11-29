@@ -1,0 +1,7 @@
+scikit-learn==0.24.2
+scikit-image==0.18.1
+numpy==1.20.1
+pandas==1.2.4
+matplotlib==3.3.4
+gym==0.21.0
+mdptoolbox-hiive==4.0.3.1
