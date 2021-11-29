@@ -21,14 +21,14 @@ runExperimentForest.py:  This file contains several differnet experiments and ge
 
 runExperiments.py can be ran from the command line by running <python3 runExperiments.py "args">  
 The following arguments can be taken  
--exp vipi gamma, this generates plots for value and policy iteration vs discount factor gamma
--exp vipi size, this generates plots for value and policy iteration vs MDP size
--exp ql all, this generates plots for differnet learning rates/gamma value for Q-learning
--exp ql optimal, this generates average score plot for the optimal Q-Learning aglorithm
+-exp vipi gamma, this generates plots for value and policy iteration vs discount factor gamma  
+-exp vipi size, this generates plots for value and policy iteration vs MDP size  
+-exp ql all, this generates plots for differnet learning rates/gamma value for Q-learning  
+-exp ql optimal, this generates average score plot for the optimal Q-Learning aglorithm  
 
 runExperiments.py can be ran from the command line by running <python3 runExperiments.py "args">  
-The following arguments can be taken  
--exp vipi gamma, this generates plots for value and policy iteration vs discount factor gamma
--exp vipi size, this generates plots for value and policy iteration vs MDP size
--exp ql, this generates plots for differnet learning rates/gamma value for Q-learning
+The following arguments can be taken   
+-exp vipi gamma, this generates plots for value and policy iteration vs discount factor gamma  
+-exp vipi size, this generates plots for value and policy iteration vs MDP size  
+-exp ql, this generates plots for differnet learning rates/gamma value for Q-learning  
 
